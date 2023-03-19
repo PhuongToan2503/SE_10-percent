@@ -6,6 +6,7 @@
 - Với Data Source: tên máy tính
 - Initial Catalog: tên của database
 - Lưu file lại
+
 3.Mở VisualStudio trên thanh menu:
 - chọn File
 - chọn Open/Folders
