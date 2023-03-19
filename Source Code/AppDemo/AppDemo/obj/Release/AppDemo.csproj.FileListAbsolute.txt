@@ -1,0 +1,11 @@
+D:\Tài liệu\Năm 2\Công nghệ phần mềm\QT10%\AppDemo\AppDemo\bin\Release\AppDemo.exe.config
+D:\Tài liệu\Năm 2\Công nghệ phần mềm\QT10%\AppDemo\AppDemo\bin\Release\AppDemo.exe
+D:\Tài liệu\Năm 2\Công nghệ phần mềm\QT10%\AppDemo\AppDemo\bin\Release\AppDemo.pdb
+D:\Tài liệu\Năm 2\Công nghệ phần mềm\QT10%\AppDemo\AppDemo\obj\Release\AppDemo.FormCreditCard.resources
+D:\Tài liệu\Năm 2\Công nghệ phần mềm\QT10%\AppDemo\AppDemo\obj\Release\AppDemo.FormMain.resources
+D:\Tài liệu\Năm 2\Công nghệ phần mềm\QT10%\AppDemo\AppDemo\obj\Release\AppDemo.FormQR.resources
+D:\Tài liệu\Năm 2\Công nghệ phần mềm\QT10%\AppDemo\AppDemo\obj\Release\AppDemo.Properties.Resources.resources
+D:\Tài liệu\Năm 2\Công nghệ phần mềm\QT10%\AppDemo\AppDemo\obj\Release\AppDemo.csproj.GenerateResource.cache
+D:\Tài liệu\Năm 2\Công nghệ phần mềm\QT10%\AppDemo\AppDemo\obj\Release\AppDemo.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Năm 2\Công nghệ phần mềm\QT10%\AppDemo\AppDemo\obj\Release\AppDemo.exe
+D:\Tài liệu\Năm 2\Công nghệ phần mềm\QT10%\AppDemo\AppDemo\obj\Release\AppDemo.pdb
