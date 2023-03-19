@@ -11,5 +11,6 @@
 - chọn Open/Folders
 - Chọn đường dẫn đến thư mục ..\521H0486\Source Code\AppDemo
 - Bấm SelectFolder
+
 4.Sau khi load thư mục xong nhấn F5 để chạy thử demo
 LinkGithub: https://github.com/PhuongToan2503/SE_10-percent
